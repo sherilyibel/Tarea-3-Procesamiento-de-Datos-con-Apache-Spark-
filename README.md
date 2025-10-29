@@ -7,7 +7,9 @@ El crecimiento constante de los datos digitales ha generado la necesidad de herr
 El conjunto de datos fue obtenido desde Kaggle (Traffic Volume Dataset) y contiene aproximadamente 400.000 registros de tráfico vehicular recolectados entre 2012 y 2018. Cada registro incluye variables como: 
 
 Fecha y hora de la observación 
+
 Temperatura, clima y visibilidad 
+
 Volumen de vehículos registrados por hora 
 
 El objetivo es aplicar técnicas de procesamiento batch y en tiempo real utilizando Apache Spark, para analizar los flujos de tráfico y detectar tendencias según condiciones ambientales y temporales.
